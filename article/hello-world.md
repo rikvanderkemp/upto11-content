@@ -9,3 +9,5 @@ synopsis: |
 # Hello World
 
 Just starting with my new website. Playing around and such!
+
+Testing out CI
