@@ -8,7 +8,3 @@ This site is first and foremost intended for my own amusement and a place for me
 <br />Opinions are my own and not the views of my employer.
 
 [u11:articles]
-
-```php
-asdasd
-```
